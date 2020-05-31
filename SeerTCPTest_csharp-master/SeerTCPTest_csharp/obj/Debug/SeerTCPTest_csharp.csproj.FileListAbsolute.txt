@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\bin\Debug\SeerTCPTest_csharp.exe.config
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\bin\Debug\SeerTCPTest_csharp.exe
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\bin\Debug\SeerTCPTest_csharp.pdb
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.MainForm.resources
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.exe
+C:\Users\ASUS\Desktop\SeerTCPTest_csharp-master\SeerTCPTest_csharp\obj\Debug\SeerTCPTest_csharp.pdb
